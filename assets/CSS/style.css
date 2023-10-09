@@ -1,4 +1,7 @@
-/* Asterisk wildard to override default styles added by the browser */
+/* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+/* Asterisk wildcard to override default styles added by the browser */
 * {
     margin: 0;
     padding: 0;
